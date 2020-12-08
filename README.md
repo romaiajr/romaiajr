@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="twitter | Twitter" width="22px"  src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="40px" src="https://image.flaticon.com/icons/svg/187/187185.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="40px" src="https://image.flaticon.com/icons/svg/187/187207.svg" />][instagram]
 [<img align="left" alt="Lattes" width="40px" src="https://static.wixstatic.com/media/478424_81030f216eab45fe8a64d12a964eea14~mv2.gif" />][lattes]
@@ -31,11 +31,11 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Vue" width="26px" src="https://icons8.com.br/icon/rY6agKizO9eb/vue-js" />
+<img align="left" alt="Vue" width="26px"src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://icons8.com.br/icon/3764/sql" />
-<img align="left" alt="Mongodb" width="26px" src="https://icons8.com.br/icon/74402/mongodb" />
-<img align="left" alt="Figma" width="26px" src="https://icons8.com.br/icon/bC-_sZeYsr7v/figma" />
+<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/metro/26/000000/sql.png" />
+<img align="left" alt="Mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" /><img />
+<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/windows/32/000000/figma.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
