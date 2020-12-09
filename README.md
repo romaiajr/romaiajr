@@ -5,7 +5,7 @@
 - 💻 Atualmente sou estudante de engenharia da computação pela UEFS (Universidade Estadual de Feira de Santana)!
 - 😎 Eu amo mexer com web design e front-end, mas também domino no back-end ;)
 - 📚 Estou sempre disposto a correr riscos e me aventurar em novas tecnologias!
-- 🎮 No meu tempo livre, amo jogar vôlei e jogos eletrônicos com meus amigos, além de assistir filmes e séries com a namorada <3
+- 🎮 No meu tempo livre, amo assistir filmes e séries com minha namorada ❤️, também amo jogar vôlei e jogos eletrônicos com meus amigos!
 - 🙊 Fun fact: Sou Fanático por One Piece
 
 ### Spotify Playing 🎧
