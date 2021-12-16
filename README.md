@@ -27,10 +27,6 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="romaiajr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=romaiajr&show_icons=true&hide_border=true" />
-</details>
-<details>
   <summary>:zap: Most Used Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaiajr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
