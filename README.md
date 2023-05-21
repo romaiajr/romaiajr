@@ -32,8 +32,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaiajr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
-[twitter]: https://twitter.com/arromberto
-[lattes]: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=E9A0ACA3630D872FB4C8AE59FAE65F96#
-[instagram]: https://www.instagram.com/_robertomaia_/
-[linkedin]: https://www.linkedin.com/in/roberto-maia-7423331b5/
